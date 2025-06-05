@@ -40,6 +40,6 @@ Luego abrir y ejecutar `parkinson-learning-models.ipynb`.
 
 
 
-##  Nota
+##  Nota.
 
 Este proyecto se realizó con fines educativos de análisis comparativo en aprendizaje supervisado.
